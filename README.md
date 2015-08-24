@@ -12,7 +12,7 @@
 
 
 ## 更新日志
-###SDK V3.0：
+###SDK V2.0：
 1. 获取字体列表信息接口
 `getCateListFromServer(IHttpCallBack callback, String country) ` SDK现在加入对国家的支撑,提供了国家代码来支撑不同国家的字体,用于国际化.
 Country：国家代号，比如说中文字体：cn，英文字体cn，日文字体 ja
